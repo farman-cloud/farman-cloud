@@ -2,7 +2,7 @@
 ### 💻 Full Stack Developer | 🧠 Tech Enthusiast | 🏮 Japanese Learner
 
 - 🌱 I’m currently learning: **Full Stack Java Development**
-- 📫 Contact me: [Gmail](mailto:fa.xzn080@gmail.com) | [LinkedIn](https://linkedin.com/in/farman--ali)
+- 📫 Contact me: [Email](mailto:fa.xzn080@gmail.com) | [LinkedIn](https://linkedin.com/in/farman--ali)
 
 - ⚡ Fun fact: I know basic Japanese and can read and write some basic sentences in it.
 
