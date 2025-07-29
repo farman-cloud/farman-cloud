@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Farman Ali  
 ### 💻 Full Stack Developer | 🧠 Tech Enthusiast | 🏮 Japanese Learner
 
-- 🔭 I’m currently working on: [My Portfolio](https://github.com/farman-cloud/Portfolio)
 - 🌱 I’m currently learning: **Full Stack Java Development**
-- 📫 You can reach me on: [![Email](https://img.shields.io/badge/Email-farman@example.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:fa.xzn080@.com)
+- 📫 Contact me: [Gmail](mailto:fa.xzn080@gmail.com) | [LinkedIn](https://linkedin.com/in/farman--ali)
+
 - ⚡ Fun fact: I know basic Japanese and can read and write some basic sentences in it.
 
 ---
@@ -23,6 +23,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farman-cloud&layout=compact&theme=tokyonight)
 
 ---
-
-### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/farman--ali)
