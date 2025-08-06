@@ -10,11 +10,9 @@
 
 ### 🧰 My Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,py,c,mysql,html,css,bootstrap,git,github,bash,linux,vscode,idea"/>
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,javascript,py,c,mysql,html,css,bootstrap,git,github,bash,linux,vscode,idea"/>
+</a>
 
 
 ---
