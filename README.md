@@ -1,26 +1,86 @@
-# Hi there 👋, I'm Farman Ali  
-### 💻 Full Stack Developer | 🧠 Tech Enthusiast | 🏮 Japanese Learner
+# Hi there, I'm Farman Ali 👋
 
-- 🌱 I’m currently learning: **Full Stack Java Development**
-- 📫 Contact me: [Email](mailto:fa.xzn080@gmail.com) | [LinkedIn](https://linkedin.com/in/farman--ali)
-
-- ⚡ Fun fact: I know basic Japanese and can read and write some basic sentences in it.
-
----
-
-### 🧰 My Tech Stack
-<p  align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,py,c,mysql,html,css,bootstrap,git,github,bash,linux,vscode,idea"/>
+<p align="center">
+  <a href="https://linkedin.com/in/farman--ali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:fa.xzn080@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
----
+### 👨‍💻 About Me
 
-### 📊 GitHub Stats
+I'm a passionate **Full Stack Developer** from India, dedicated to building robust and user-friendly web applications. I'm currently deepening my expertise in the **Java ecosystem** to create scalable backend services.
 
-![Farman's GitHub stats](https://github-readme-stats.vercel.app/api?username=farman-cloud&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farman-cloud&layout=compact&theme=tokyonight)
+Beyond coding, I have a keen interest in linguistics and am learning Japanese (日本語を勉強しています). I believe that learning new languages—both human and computer—opens up new ways of thinking and problem-solving.
 
 ---
+
+### 🛠️ My Tech Stack
+
+Here are some of the technologies I'm proficient with:
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <strong>Languages</strong>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,javascript,py,c" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Frontend</strong>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Backend & Database</strong>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring,mysql" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Tools & Platforms</strong>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,idea" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 My Projects
+
+Here are some of my pinned projects. Feel free to check them out!
+
+<p align="center">
+  <a href="https://github.com/farman-cloud/piano-keys">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farman-cloud&repo=piano-keys&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/farman-cloud/Learning-Management-System">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farman-cloud&repo=Learning-Management-System&theme=tokyonight" />
+  </a>
+</p>
+
+
+---
+
+### 📊 My GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farman-cloud&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Farman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farman-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/farman-cloud/farman-cloud/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
+</p>
