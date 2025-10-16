@@ -58,22 +58,6 @@ Here are some of the technologies I'm proficient with:
 
 ---
 
-### 🚀 My Projects
-
-Here are some of my pinned projects. Feel free to check them out!
-
-<p align="center">
-  <a href="https://github.com/farman-cloud/piano-keys">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farman-cloud&repo=piano-keys&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/farman-cloud/Learning-Management-System">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farman-cloud&repo=Learning-Management-System&theme=tokyonight" />
-  </a>
-</p>
-
-
----
-
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
