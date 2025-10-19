@@ -27,7 +27,7 @@ Here are some of the technologies I'm proficient with:
       <strong>Languages</strong>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=java,javascript,py,c" />
+      <img src="https://skillicons.dev/icons?i=java,py,javascript,c" />
     </td>
   </tr>
   <tr>
@@ -61,7 +61,6 @@ Here are some of the technologies I'm proficient with:
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farman-cloud&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Farman's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farman-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
