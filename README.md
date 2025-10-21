@@ -63,3 +63,13 @@ Here are some of the technologies I'm proficient with:
 <p align="center">
   <img src="https://github.com/farman-cloud/farman-cloud/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
 </p>
+
+---
+
+### 🏅 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@farmanal1">
+    <img src="https://holopin.me/farmanal1" alt="@farman-ali's Holopin board" />
+  </a>
+</p>
